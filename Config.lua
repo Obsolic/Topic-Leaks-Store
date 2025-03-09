@@ -1,3 +1,3 @@
 Config = {}
 
-Config.License = 'Denegado'
+Config.License = 'Topic Leaks & Store'
